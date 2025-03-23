@@ -1,6 +1,6 @@
 {
-  "name": "CryptoTD Crowns",
-  "symbol": "Crown",
+  "name": "CryptoTD Crowns Dev",
+  "symbol": "Crown Dev",
   "description": "Testing Token.",
   "image": "https://raw.githubusercontent.com/cryptotd/tokendev/refs/heads/main/512logo.png"
 }
